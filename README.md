@@ -1,8 +1,8 @@
 # el_gato
 
 [귀여운 동물을 보는것은 스트레스를 줄여주고, 일에 집중할 수 있도록 도와줍니다.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0046362)
-행복하게 코딩할 수 있게 해주는 귀여운 고양이를 보여주는 프로그램.
 
+행복하게 코딩할 수 있게 해주는 귀여운 고양이를 보여주는 프로그램.
 50/50 확률로 고양이 사진 or 움짤을 볼 수 있다.
 
 <img width="2048" height="1280" alt="Screenshot 2025-12-16 at 22 25 35" src="https://github.com/user-attachments/assets/5a2965c4-c0db-41e6-b018-ae03acb88765" />
